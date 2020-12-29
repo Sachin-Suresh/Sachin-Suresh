@@ -1,9 +1,8 @@
 ## Hi there, I'm Sachin 👋
 
 <p align="center">
-<img width="20%" src="https://imgupload.io/image/R7Opu"/>
+<img width="20%" src="https://imgupload.io/image/R7Opu">
 </p>
-<!--
 
 - I'm **Technical Writer** | **Tech Blogger** | **Artist** | **Learner**
 - Currently Learning:  **Single Sourcing**, **DITA**, **Web Development** And **Machine Learning**
