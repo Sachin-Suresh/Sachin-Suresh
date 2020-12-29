@@ -5,7 +5,7 @@
 </p>
 
 
-## I'm a **Technical Writer** | **Tech Blogger** | **Artist** | **Learner**
+## I'm a **Technical Writer** | **Tech Blogger** | **Proofreader** | **Editor**
 
 🏢 Works for **E&Y**
 
