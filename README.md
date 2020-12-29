@@ -1,10 +1,8 @@
 ## Hi there, I'm Sachin 👋
 
 <p align="center">
-<img width="20%" src="./images/github-readme-profile.png">
+<img width="40%" src="./images/github-readme-profile.png">
 </p>
-
-![](images/github-readme-profile.png)
 
 - I'm **Technical Writer** | **Tech Blogger** | **Artist** | **Learner**
 - Currently Learning:  **Single Sourcing**, **DITA**, **Web Development** And **Machine Learning**
