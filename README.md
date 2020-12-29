@@ -4,6 +4,8 @@
 <img width="20%" src="https://imgupload.io/image/R7Opu">
 </p>
 
+![](images/github-readme-profile.png)
+
 - I'm **Technical Writer** | **Tech Blogger** | **Artist** | **Learner**
 - Currently Learning:  **Single Sourcing**, **DITA**, **Web Development** And **Machine Learning**
 - Willing to contribute more and more in **Open Source Projects**
