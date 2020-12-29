@@ -32,7 +32,7 @@
  ⚡️ Fun facts: Fitness freak | Diet guru | Love to travel & explore
 
 
-- 🌱 Learning all about:
+🌱 Learning all about:
 The art of explaining how to use a technology to a non-expert user.
 
 
