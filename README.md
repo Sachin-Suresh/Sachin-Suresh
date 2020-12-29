@@ -8,7 +8,7 @@
 ## I'm **Technical Writer** | **Tech Blogger** | **Artist** | **Learner**
 
 
-- Currently Learning:  **Single Sourcing**, **DITA**, **Web Development** And **Machine Learning**
+- Currently Learning:  **Single Sourcing**, **DITA**, **UX Writing** And **Technical Communication**
 - Willing to contribute more and more in **Open Source Projects**
 
 
@@ -33,3 +33,10 @@
 
 - 🌱 Learning all about:
 The art of explaining how to use a technology to a non-expert user.
+
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sachin-mca/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+</p>
