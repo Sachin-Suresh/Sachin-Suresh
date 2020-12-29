@@ -4,7 +4,10 @@
 <img width="40%" src="./images/github-readme-profile.png">
 </p>
 
-- I'm **Technical Writer** | **Tech Blogger** | **Artist** | **Learner**
+
+## I'm **Technical Writer** | **Tech Blogger** | **Artist** | **Learner**
+
+
 - Currently Learning:  **Single Sourcing**, **DITA**, **Web Development** And **Machine Learning**
 - Willing to contribute more and more in **Open Source Projects**
 
