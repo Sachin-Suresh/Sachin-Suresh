@@ -4,10 +4,9 @@
 <img width="20%" src="https://imgupload.io/image/R7Opu"/>
 </p>
 <!--
-**Sachin-Suresh/Sachin-Suresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - I'm **Technical Writer** | **Tech Blogger** | **Artist** | **Learner**
-- Currently Learning **Single Sourcing**, **DITA**, **Web Development** And **Machine Learning**
+- Currently Learning:  **Single Sourcing**, **DITA**, **Web Development** And **Machine Learning**
 - Willing to contribute more and more in **Open Source Projects**
 
 
@@ -25,7 +24,4 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
-  
-
-#### Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{imakash3011}/count.svg)
+- ⚡️ Fun facts: Fitness freak | Diet guru | Love to travel & explore
