@@ -7,13 +7,12 @@
 
 ## I'm a **Technical Writer** | **Tech Blogger** | **Artist** | **Learner**
 
+🏢 Works for **E&Y**
 
 - Currently Learning:  **Single Sourcing**, **DITA**, **UX Writing** And **Technical Communication**
 - Willing to contribute more and more in **Open Source Projects**
 
 
-
-🏢 I'm currently working at **E&Y**
 🚀 I use daily:
   ![Adobe Premiere Pro 2020 ](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-9999FF?style=plastic&logo=adobe-premiere-pro)
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF26BE?style=plastic&logo=adobe-xd)
