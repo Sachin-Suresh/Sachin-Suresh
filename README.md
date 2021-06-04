@@ -33,7 +33,3 @@ The art of explaining how to use a technology to a non-expert user.
 
 
 ### 🤝🏻 &nbsp;Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/sachin-mca/"><img src="https://img.shields.io/badge/-Sachin S-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-</p>
