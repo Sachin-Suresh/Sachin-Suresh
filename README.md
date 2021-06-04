@@ -1,9 +1,5 @@
 ## Hi there, I'm Sachin 👋
 
-<p align="center">
-<img width="40%" src="./images/github-readme-profile.png">
-</p>
-
 
 ## I'm a **Technical Writer** | **Tech Blogger** | **Proofreader** | **Editor**
 
