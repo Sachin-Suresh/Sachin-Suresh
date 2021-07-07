@@ -3,8 +3,6 @@
 
 ## I'm a **Technical Writer** | **Tech Blogger** | **Proofreader** | **Editor**
 
-🏢 Works for **E&Y**
-
 - Currently Learning:  **Single Sourcing**, **DITA**, **UX Writing** And **Technical Communication**
 - Willing to contribute more and more in **Open Source Projects**
 
